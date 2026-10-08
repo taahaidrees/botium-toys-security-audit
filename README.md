@@ -14,7 +14,6 @@ This project assesses a fictional toy retailer’s security controls and course-
 ## Repository files
 
 - [`Botium_Toys_Internal_Security_Audit.pdf`](Botium_Toys_Internal_Security_Audit.pdf) — formatted audit report
-- [`Botium_Toys_Internal_Security_Audit.docx`](Botium_Toys_Internal_Security_Audit.docx) — editable report
 - [`Botium_Toys_Internal_Security_Audit.md`](Botium_Toys_Internal_Security_Audit.md) — Markdown audit report
 - [`Completed_Controls_and_Compliance_Checklist.md`](Completed_Controls_and_Compliance_Checklist.md) — completed checklist
 
